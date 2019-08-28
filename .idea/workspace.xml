@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="" />
+    <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camp210.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Gaya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Speed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Speed2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Gaya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Speed2.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +28,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Q2EHM7fACnwbiuPBO0vDm82alt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -105,5 +123,16 @@
       <updated>1566960201293</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
