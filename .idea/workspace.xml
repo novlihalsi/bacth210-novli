@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestLogic">
+  <component name="RunManager" selected="Application.TestArraySearchForNumber">
     <configuration name="Gaya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Gaya" />
       <module name="camp210" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Speed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Speed" />
+    <configuration name="Speed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Speed2" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Speed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Speed2" />
+    <configuration name="TestArraySearchForNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day02.TestArraySearchForNumber" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.*" />
+          <option name="PATTERN" value="com.xsis.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestArraySearchForNumber" />
         <item itemvalue="Application.TestLogic" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Gaya" />
         <item itemvalue="Application.Speed2" />
-        <item itemvalue="Application.Speed" />
       </list>
     </recent_temporary>
   </component>
