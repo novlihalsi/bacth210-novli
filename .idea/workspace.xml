@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camp210.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Gaya.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Speed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day01/Speed2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Gaya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Speed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Speed2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Gaya">
+  <component name="RunManager" selected="Application.Hello">
     <configuration name="Gaya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Gaya" />
       <module name="camp210" />
@@ -104,10 +93,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Gaya" />
         <item itemvalue="Application.Speed2" />
         <item itemvalue="Application.Speed" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +118,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
