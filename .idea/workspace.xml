@@ -38,13 +38,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultidimensiArray">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Hello" />
+  <component name="RunManager" selected="Application.ArrayBox">
+    <configuration name="ArrayBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day03.ArrayBox" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.*" />
+          <option name="PATTERN" value="com.xsis.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayBox" />
         <item itemvalue="Application.MultidimensiArray" />
         <item itemvalue="Application.TestArraySkipBilanganGanjil" />
         <item itemvalue="Application.TestArraySearchForNumber" />
         <item itemvalue="Application.TestLogic" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
