@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayBox">
+  <component name="RunManager" selected="Application.Phytagoras">
     <configuration name="ArrayBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day03.ArrayBox" />
       <module name="camp210" />
@@ -58,6 +58,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xsis.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Phytagoras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day04.Phytagoras" />
+      <module name="camp210" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day02.TestLogic" />
-      <module name="camp210" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Phytagoras" />
         <item itemvalue="Application.ArrayBox" />
         <item itemvalue="Application.MultidimensiArray" />
         <item itemvalue="Application.TestArraySkipBilanganGanjil" />
         <item itemvalue="Application.TestArraySearchForNumber" />
-        <item itemvalue="Application.TestLogic" />
       </list>
     </recent_temporary>
   </component>
