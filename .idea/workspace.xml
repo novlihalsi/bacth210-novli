@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Logic02">
+  <component name="RunManager" selected="Application.Logic03">
     <configuration name="ArrayBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day03.ArrayBox" />
       <module name="camp210" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultidimensiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day02.MultidimensiArray" />
+    <configuration name="Logic03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day05.Logic03" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day02.*" />
+          <option name="PATTERN" value="com.xsis.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Logic03" />
         <item itemvalue="Application.Logic02" />
         <item itemvalue="Application.Fisika" />
         <item itemvalue="Application.Phytagoras" />
         <item itemvalue="Application.ArrayBox" />
-        <item itemvalue="Application.MultidimensiArray" />
       </list>
     </recent_temporary>
   </component>
