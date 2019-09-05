@@ -42,8 +42,6 @@ public class Employee {
     }
 
 
-
-
     public Employee (String name, String ssn) {
         this.name = name;
         this.ssn = ssn;

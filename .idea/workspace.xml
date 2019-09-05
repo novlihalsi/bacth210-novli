@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day06/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day06/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day06/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day06/Employee.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ABCD">
+  <component name="RunManager" selected="Application.EmployeeDemo">
     <configuration name="ABCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day06.ABCD" />
       <module name="camp210" />
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Honda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day06.Honda" />
+    <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day07.EmployeeDemo" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day06.*" />
+          <option name="PATTERN" value="com.xsis.day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logic02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day04.Logic02" />
+    <configuration name="PegawaiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day07.PegawaiDemo" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day04.*" />
+          <option name="PATTERN" value="com.xsis.day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logic03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day05.Logic03" />
+    <configuration name="TestArraySearchForNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day02.TestArraySearchForNumber" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day05.*" />
+          <option name="PATTERN" value="com.xsis.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeDemo" />
+        <item itemvalue="Application.PegawaiDemo" />
+        <item itemvalue="Application.TestArraySearchForNumber" />
         <item itemvalue="Application.ABCD" />
         <item itemvalue="Application.EmployeeClient" />
-        <item itemvalue="Application.Honda" />
-        <item itemvalue="Application.Logic03" />
-        <item itemvalue="Application.Logic02" />
       </list>
     </recent_temporary>
   </component>
