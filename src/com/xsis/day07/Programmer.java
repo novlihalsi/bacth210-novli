@@ -46,9 +46,13 @@ public class Programmer extends Pegawai implements PegawaiInterface {
 
     }
 
+    @Override
+    public double getSalary() {
+        return super.getSalary()+bonus;
+    }
 
     @Override
     public String toString() {
-        return super.toString()+", Bonus="+this.getBonus()+", Masa Kerja="+this.getMasaKerja()+"th";
+        return super.toString()+", Bonus="+this.getBonus()+", Masa Kerja="+this.getMasaKerja()+"th"+", Total Salary="+this.getSalary();
     }
 }

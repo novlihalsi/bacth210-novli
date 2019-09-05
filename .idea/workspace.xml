@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Manager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/PegawaiDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/PegawaiDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/PegawaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/PegawaiDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Programmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/Programmer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
