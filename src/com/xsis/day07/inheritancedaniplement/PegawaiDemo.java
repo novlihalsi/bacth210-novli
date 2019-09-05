@@ -1,4 +1,4 @@
-package com.xsis.day07;
+package com.xsis.day07.inheritancedaniplement;
 
 public class PegawaiDemo {
     public static void main(String[] args) {

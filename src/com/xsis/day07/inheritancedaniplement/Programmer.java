@@ -1,4 +1,4 @@
-package com.xsis.day07;
+package com.xsis.day07.inheritancedaniplement;
 
 public class Programmer extends Pegawai implements PegawaiInterface {
     private double bonus;

@@ -1,11 +1,20 @@
-package com.xsis.day07;
+package com.xsis.day07.inheritancedaniplement;
 
-public class Employee {
+public class Pegawai {
     private String name;
     private String ssn;
     private String emailAddress;
     private int yearOFBirth;
     private double salary;
+
+
+    public Pegawai (String name, String ssn, String emailAddress, int yearOFBirth, double salary) {
+        this.name = name;
+        this.ssn = ssn;
+        this.emailAddress = emailAddress;
+        this.yearOFBirth = yearOFBirth;
+        this.salary = salary;
+    }
 
     public String getName() {
         return name;
@@ -47,14 +56,14 @@ public class Employee {
         this.salary = salary;
     }
 
-    public Employee (String name, String ssn, String emailAddress, int yearOFBirth, double salary) {
-        this.name = name;
-        this.ssn = ssn;
-        this.emailAddress = emailAddress;
-        this.yearOFBirth = yearOFBirth;
-        this.salary = salary;
+    @Override
+    public String toString() {
+        return "Pegawai{" +
+                "name='" + name + '\'' +
+                ", ssn='" + ssn + '\'' +
+                ", emailAddress='" + emailAddress + '\'' +
+                ", yearOFBirth=" + yearOFBirth +
+                ", salary=" + salary +
+                '}';
     }
-
-
-
 }

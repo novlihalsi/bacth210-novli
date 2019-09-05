@@ -1,4 +1,4 @@
-package com.xsis.day07;
+package com.xsis.day07.inheritancedaniplement;
 
 public class Manager extends Pegawai implements PegawaiInterface {
     private double commition;
