@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/EmployeeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Pegawai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/PegawaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/PegawaiInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaniplement/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaninterface/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaniplement/Pegawai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaninterface/Pegawai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaniplement/PegawaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaninterface/PegawaiDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaniplement/PegawaiInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaninterface/PegawaiInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaniplement/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/inheritancedaninterface/Programmer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeDemo">
-    <configuration name="ABCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day06.ABCD" />
+  <component name="RunManager" selected="Application.Soal10">
+    <configuration name="Soal06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal06" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day06.*" />
+          <option name="PATTERN" value="com.xsis.quiz.logic.Soal08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeAbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day07.abstrack.EmployeeAbstractDemo" />
+    <configuration name="Soal07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal07" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day07.abstrack.*" />
+          <option name="PATTERN" value="com.xsis.quiz.logic.Soal08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day07.EmployeeDemo" />
+    <configuration name="Soal08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal08.Soal08" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day07.*" />
+          <option name="PATTERN" value="com.xsis.quiz.logic.Soal08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PegawaiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day07.PegawaiDemo" />
+    <configuration name="Soal09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal09" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day07.*" />
+          <option name="PATTERN" value="com.xsis.quiz.logic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArraySearchForNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day02.TestArraySearchForNumber" />
+    <configuration name="Soal10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal10" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day02.*" />
+          <option name="PATTERN" value="com.xsis.quiz.logic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeDemo" />
-        <item itemvalue="Application.EmployeeAbstractDemo" />
-        <item itemvalue="Application.PegawaiDemo" />
-        <item itemvalue="Application.TestArraySearchForNumber" />
-        <item itemvalue="Application.ABCD" />
+        <item itemvalue="Application.Soal10" />
+        <item itemvalue="Application.Soal09" />
+        <item itemvalue="Application.Soal08" />
+        <item itemvalue="Application.Soal07" />
+        <item itemvalue="Application.Soal06" />
       </list>
     </recent_temporary>
   </component>

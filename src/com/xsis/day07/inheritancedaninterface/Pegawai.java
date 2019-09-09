@@ -1,4 +1,4 @@
-package com.xsis.day07.inheritancedaniplement;
+package com.xsis.day07.inheritancedaninterface;
 
 public class Pegawai {
     private String name;

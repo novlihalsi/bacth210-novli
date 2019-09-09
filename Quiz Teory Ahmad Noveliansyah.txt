@@ -1,0 +1,50 @@
+1. Cara kerja jvm
+
+didalam architecture jvm terdapat class loader, memory area, dan execution engine.
+
+a. pada class loader jvm akan mengeksekusi file dengan ekstensi .class dari file java yang telah di compile oleh java compiler
+
+b. pada memory area terdapat dua memory yaitu stack dan heap
+- pada memory stack, semua data dan variable lokal yang sudah ditentukan sejak awal akan dialokasikan di memory ini
+- pada memory head, semua objek dari variable lokal pada memori stack akan dialokasikan pada memory ini.
+
+c. execution engine akan mencompile bytecode menjadi mechine code sehingga mesin bisa menjalankan program yang telah dibuat.	
+
+2. perbedaan class dan object 
+
+class merupakan wadah atau sebuah blueprint dari sebuah objek sedangkan object adalah sebuah bentuk atau wujud nyata dari sebuah class tersebut.
+contoh pada proses pembangunan rumah, terdapat sebuah blueprint design dari rumah tersebut maka ini disebut dengan class dan ketika sudah dibangun menjadi rumah maka itu disebut object.
+
+3. komponen utama class
+- access modifiers
+- class
+- nama class
+- body
+
+4. keguanaan package adalah untuk mengelompokkan class dan interface yang sekelompok dan menjadikannya satu unit dalam library.
+- cara pemanggilan class A ke main method class ADemo
+dengan cara mengetikan import com.xsis.pretest.one diatas code class ADemo dan dibawah package com.xsis.pretest.two
+setelah itu membuat class A menjadi objek pada class ADemo : A a1 = new A();
+
+5. - static variable merupakan variable yang dideklarasikan menggunakan keyword static dan variable dapat diakses menggunakan nama class atau tidak.
+- instance variable dideklarasikan didalam class, instance variable dapat diakses dengan membuat class menjadi objek.
+- locale variable adalah variable yang dideklarasikan pada methode dan tidak dapat diakses pada methode lainnya.
+- perbedaan instance methode dan static methode adalah ketika ingin menggunakan instance methode maka kita harus membuat class menjadi objek terlebih dahulu sedangkan 
+sedangkan static methode kita hanya perlu menggunakan nama class tanpa membuat objek terlebih dahulu.
+
+6. public class Student {
+	private String nim;
+	private String name;
+	private Double ipk;
+}
+
+- encapsulation berfungsi untuk menyembunyikan data field yang telah dibuat didalam class dan hanya bisa diakses melalui methode. 
+- jika tidak menggunakan encapsulation maka data menjadi tidak aman dan langsung dapat dimanipulasi oleh berbagai akses.
+
+7. inheritance adalah pewarisan atribut dan method ke subclass yand diwariskan oleh parent class.
+keuntungan menggunakan inheritance salah satunya adalah kita dapat menggunakan methode yang ada pada parent class tanpa perlu membuatnya lagi.
+
+8. jawaban ada di package quiz teory
+
+9. - interface merupakan blueprint sebuah class, pada interface hanya terdapat method header dan tidak memiliki body, jadi kita hanya mendeklarasikan methode tanpa isi code didalamnya.
+- sedangkan abstract merupakan blueprint untuk parent class yang akan diwariskan ke subclass dan bisa memiliki field dan constructor.

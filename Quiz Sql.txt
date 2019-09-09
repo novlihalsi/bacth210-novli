@@ -1,0 +1,17 @@
+1. ALTER TABLE human_resource.employees ADD COLUMN tax NUMERIC(8,2)
+
+2. UPDATE human_resource.employees SET tax = salary * 0.1
+
+3. update human_resource.employees set tax = 0 where salary <= 7000 
+
+4. select employee_id, first_name ||' '||last_name as fullname,salary,tax,sum(salary-tax) as total_gaji 
+from human_resource.employees
+group by employee_id
+order by first_name
+
+5. select department_name, count(employee_id)
+from human_resource.employees a, human_resource.departments b
+where a.department_id = b.department_id
+group by department_name
+order by department_name
+
