@@ -12,7 +12,7 @@ public class Soal02 {
         int angka = 2;
 
 
-        while(hitung < n){
+        while(hitung < n) {
             boolean prima = true;
             for(int i = 2; i<angka; i++){
 
