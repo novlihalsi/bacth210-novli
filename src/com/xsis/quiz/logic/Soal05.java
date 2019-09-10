@@ -5,7 +5,7 @@ public class Soal05 {
 
         Soal05 s1 = new Soal05();
 
-        s1.checkPalindromString("101");
+        s1.checkPalindromString("katak");
 
     }
 

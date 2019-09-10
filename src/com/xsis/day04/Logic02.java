@@ -5,14 +5,15 @@ public class Logic02 {
         int [] nums = new int[7];
         Logic02 logic = new Logic02();
 
-        logic.soal1(nums);
-        System.out.println();
-        logic.soal2(nums);
-        System.out.println();
-        logic.soal3(nums);
+        logic.soal01(nums);
+        logic.soal02(nums);
+        logic.soal03(nums);
+        logic.soal05("Aku Sayang Kamu ");
+        logic.soal06("Aku Sayang Kamu Tapi Kamu");
     }
 
-    public void soal1(int[] nums) {
+    public void soal01(int[] nums) {
+        System.out.println("Soal 01");
         int n2 = 3;
         for (int i=0; i<nums.length; i++) {
             nums [i] = i;
@@ -27,10 +28,12 @@ public class Logic02 {
 
         int Perhitungan = nums [0] + nums [1] + nums [2];
 
-        System.out.print("Perhitungan ==> " + nums[0] +" + "+ nums[1] +" + "+ nums[2] +" = "+ Perhitungan );
+        System.out.println("Perhitungan ==> " + nums[0] +" + "+ nums[1] +" + "+ nums[2] +" = "+ Perhitungan );
+        System.out.println();
     }
 
-    public void soal2(int[] nums){
+    public void soal02(int[] nums){
+        System.out.println("Soal 02");
         int n2 = 3;
         for (int i=0; i<nums.length; i++ ) {
             nums[i]=i;
@@ -50,11 +53,13 @@ public class Logic02 {
 
         int Penjumlahan = nums[0] * nums[1] * nums[2];
 
-        System.out.print("Perhitungan ==> " + nums[0] +  " + " + nums[1] + " + " + nums[2] +  " = " + Penjumlahan);
+        System.out.println("Perhitungan ==> " + nums[0] +  " + " + nums[1] + " + " + nums[2] +  " = " + Penjumlahan);
+        System.out.println();
 
     }
 
-    public void soal3 (int[] nums) {
+    public void soal03 (int[] nums) {
+        System.out.println("Soal 03");
         int hasil = 2;
         for (int i=0; i<nums.length; i++) {
             nums [i] = i;
@@ -83,7 +88,56 @@ public class Logic02 {
         int Perhitungan = nums[3] - nums[2] - nums[1];
 
         System.out.println("Perhitungan ==> " + nums[3] + " - " + nums[2] + " - " + nums[1] + " = " + Perhitungan );
+        System.out.println();
 
     }
+
+     void soal05(String kalimat){
+         System.out.println("Soal 05");
+        int start = 0;
+        int end = 0;
+        String finalKata="";
+
+        for (int i=0; i<kalimat.length() ; i++){
+            char huruf = kalimat.charAt(i);
+
+            end = i;
+
+            if(huruf == ' '){
+                String cutWord = kalimat.substring(start,end);
+                int lengthWord = kalimat.substring(start,end).length();
+
+                String kata ="";
+                for (int j=0; j<lengthWord; j++) {
+                    char chin= cutWord.charAt(j);
+                    if ((j==0) || (j==lengthWord-1)){
+                        kata=kata +chin;
+                    }
+                    if((j>0)&&(j<lengthWord-1)){
+                        kata = kata+"*";
+                    }
+
+                }
+                start=end+1;
+                finalKata = finalKata+" "+kata;
+            }
+        }
+        System.out.println(finalKata);
+         System.out.println();
+    }
+
+    void soal06(String kalimat){
+        System.out.println("Soal 06");
+        int hitung=0;
+        for (int i=0; i<kalimat.length(); i++){
+            char huruf=kalimat.charAt(i);
+            if (Character.isUpperCase(huruf)){
+                hitung++;
+            }
+
+        }
+        System.out.println(hitung);
+    }
+
 
 }
