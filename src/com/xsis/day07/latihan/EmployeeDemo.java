@@ -17,9 +17,9 @@ public class EmployeeDemo {
         listEmployee[3] = e4;
         listEmployee[4] = e5;
 
-//        demo.findAll(listEmployee);
+        demo.findAll(listEmployee);
 //        demo.findbySSN(listEmployee, "1113");
-        demo.sortSalary(listEmployee);
+//        demo.sortSalary(listEmployee);
 
 
     }

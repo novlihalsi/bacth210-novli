@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5cb58d4d-9ea2-43b8-9fc9-f108daf5da90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day04/Logic02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day04/Logic02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/quiz/logic/Soal05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/quiz/logic/Soal05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day04/Logic02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day04/Logic02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/quiz/logic/Soal05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/quiz/logic/Soal05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/latihan/EmployeeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/camp210/com/xsis/day07/latihan/EmployeeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day07/latihan/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day07/latihan/EmployeeDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +42,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Logic02">
-    <configuration name="Logic02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day04.Logic02" />
+  <component name="RunManager" selected="Application.TestLogic">
+    <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day07.latihan.EmployeeDemo" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day04.*" />
+          <option name="PATTERN" value="com.xsis.day07.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal06" />
+    <configuration name="Logic02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day04.Logic02" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.quiz.logic.*" />
+          <option name="PATTERN" value="com.xsis.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.quiz.logic.Soal09" />
+    <configuration name="TestLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day02.TestLogic" />
       <module name="camp210" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.quiz.logic.*" />
+          <option name="PATTERN" value="com.xsis.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestLogic" />
+        <item itemvalue="Application.EmployeeDemo" />
         <item itemvalue="Application.Logic02" />
         <item itemvalue="Application.Soal07" />
         <item itemvalue="Application.Soal08" />
-        <item itemvalue="Application.Soal09" />
-        <item itemvalue="Application.Soal06" />
       </list>
     </recent_temporary>
   </component>
